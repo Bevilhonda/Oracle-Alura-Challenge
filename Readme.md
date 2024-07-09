@@ -73,6 +73,7 @@
 <h3>🔺Tutorial com Imagens</h3>
 
 <p> <h1> 1°- </h1>
+
 <br> <img src="./assets/printPage1.png" alt="Logo"> <br>
 
 ✅ No campo "Digite seu texto..." e escreva o que deseja criptografar. <br> 
@@ -82,12 +83,22 @@
  <br> <img src="./assets/printPage2.png" alt="Logo"> <br>
 
  <p> <h1> 2°- </h1>
+
 ✅ Clique no botão "Criptografar" para obter o resultado no campo ao lado.<br> 
  </p>
+
  <br> <img src="./assets/printPage3.png" alt="Logo"> <br>
- <p> <h1> 2°- </h1>
+
+ <p> <h1> 3°- </h1>
+
  ✅ Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo onde você havia digitado o texto. <br>
+
  <br> <img src="./assets/printPage5.png" alt="Logo"> <br>
+
+ <p> <h1> 4°- </h1>
+ <br> <img src="./assets/printPage6.png" alt="Logo"> <br>
+
+ ✅ Clique no botão "Descriptografar" e veja o resultado.<br>
 
 
 
