@@ -131,6 +131,7 @@
 
 <h2 align="center">💡 ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE E PARA FINS DE ESTUDO. ‼️
  </h2>
+ <h2 align="center"> <strong> Marcelo Bevilacqua de Andrade  </strong></h2>
 
  <br> <br>
 
