@@ -87,7 +87,7 @@
 
 <h2 align="center"> ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE E PARA FINS DE ESTUDO. ‼️
  </h2>
- <h4>Fontes/Imagens</h4>
+ <h4>🛑 Fontes/Imagens</h4>
  ✅  https://cursos.alura.com.br<br> 
  ✅  https://www.oracle.com/br/education/oracle-next-education/<br>
  ✅  https://vercel.com<br> 
