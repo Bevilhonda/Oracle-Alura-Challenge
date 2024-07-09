@@ -71,7 +71,9 @@
 </p>
 
 <h3>🔺Tutorial com Imagens</h3>
-<br> <img src="./assets/printPage1.png> <br>
+
+<br> <img src="./assets/printPage1.png" alt="Logo"> <br>
+
 
 <p>
 ✅ No campo "Digite seu texto..." e escreva o que deseja criptografar. <br> 
