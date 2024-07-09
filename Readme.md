@@ -72,10 +72,9 @@
 
 <h3>🔺Tutorial com Imagens</h3>
 
+<p> <h1> 1°- </h1>
 <br> <img src="./assets/printPage1.png" alt="Logo"> <br>
 
-
-<p> <h1> 1°- </h1>
 ✅ No campo "Digite seu texto..." e escreva o que deseja criptografar. <br> 
  </p>
 
@@ -83,8 +82,9 @@
  <br> <img src="./assets/printPage2.png" alt="Logo"> <br>
 
  <p> <h1> 2°- </h1>
-✅ No campo "Digite seu texto..." e escreva o que deseja criptografar. <br> 
+✅ Clique no botão "Criptografar" para obter o resultado no campo ao lado.<br> 
  </p>
+ <br> <img src="./assets/printPage3.png" alt="Logo"> <br>
 
 
 
