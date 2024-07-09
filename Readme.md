@@ -76,7 +76,7 @@
 
 <br> <img src="./assets/printPage1.png" alt="Logo"> <br>
 
-✅ <strong> No campo "Digite seu texto..." e escreva o que deseja criptografar.</strong><br> <br> 
+✅ <strong> No campo "Digite seu texto..." , escreva o que deseja criptografar.</strong><br> <br> 
  </p>
 
 
@@ -100,6 +100,8 @@
  ✅ <strong>Clique no botão "Descriptografar" e veja o resultado.</strong><br><br>
 
  <br> <img src="./assets/printPage6.png" alt="Logo"> <br>
+
+ <br> <br>
 
  
 
