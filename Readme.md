@@ -38,12 +38,27 @@
 
 <p>Ao final do curso de Logica de Programação foi disposto um desafio chamado de Challenge, e criar um Decodificador de Textos.O objetivo é criar uma aplicação que permita criptografar e descriptografar mensagens de texto.</p>
 
-<h3>🔺Tecnologias usadas</h3>
+<h3>🔺Tecnologias usadas 🎯</h3>
 
 <p>
 🔹 <strong>Html</strong><br>
 🔹 <strong>CSS</strong><br>
 🔹 <strong>Javascript</strong><br>
+🔹 <strong>Git</strong><br>
+🔹 <strong>Github</strong><br>
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="20"/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-squaree&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
