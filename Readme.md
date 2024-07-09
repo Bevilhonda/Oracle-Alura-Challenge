@@ -24,7 +24,7 @@
 <br> <img src="./equipe.png" alt="Logo"> <br>
 
 <p>Cada etapa foi concluida e assim foi possivel compreender como são criadas paginas web ,e como são utilizadas as ferramentas de criação.</p>
-<p>E para emglobar o curso foi ministrado o uso do Git e Github , ambos passo a passo para que fosse possível você chegar até aqui ao ler todo este conteúdo. </p>
+<p>E para emglobar o curso foi ministrado o uso do Git e Github , ambos 👣 passo a passo 👣 para que fosse possível você chegar até aqui ao ler todo este conteúdo. </p>
 
 <h1>🛑 O Desafio</h1>
 <h2>Praticando Lógica de Programação:Challenge Decodificador de Texto</h2>
@@ -52,3 +52,24 @@
 <p>
 🔹 <strong>Uma das regras era não ser possível o uso de letras maiúsculas.</strong><br>
 </p>
+<h3>🔺Como utilizar</h3>
+<p>
+✅ Acesse a pagina do projeto: 🔻Clique aqui: 🔻 <br>
+✅ Clique no campo onde está escrito "Digite seu texto..." e escreva o que deseja criptografar.<br>
+✅ Clique no botão "Criptografar" para obter o resultado no campo ao lado.<br>
+✅ Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo "Digite seu texto..." caso queira descriptografar e clique no botão "Descriptografar" e veja o resultado. <br>
+</p>
+<h3>🔺Video da pagina em funcionamento</h3>
+
+
+
+
+<h3>🔺Descubra qual é a nossa mensagem secreta!</h3>
+<p>Ao final foi lançada uma mensagem criptografada como desafio de teste para observar se realmente esta funcionando a pagina, a mensagem foi a seguinte:
+<p>
+🔹 <strong>"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"</strong><br>
+</p
+
+</p>
+
+
