@@ -129,6 +129,10 @@
  ✅  https://cursos.alura.com.br<br> 
  ✅  https://www.oracle.com/br/education/oracle-next-education/<br>
  ✅  https://vercel.com<br> 
+ ✅  https://grupomonacodecultura.wordpress.com/2018/11/10/voce-conhece-o-gato-robotico-do-seculo-22-doraemon-%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93-saiba-mais-sobre-esse-anime-classico-do-japao-de-1969/<br> gato doraemon
+
+
+ 
 
 
 
