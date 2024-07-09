@@ -120,7 +120,7 @@
 
 <p>Ao final foi lançada uma mensagem criptografada como desafio de teste para observar se realmente esta funcionando a pagina, a mensagem foi a seguinte:
 <p>
-🔹📝 <strong>"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"</strong><br>
+🔹📝 <strong>"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"</strong>🎲<br>
 </p>
 
 </p>
@@ -134,7 +134,7 @@
 
  <br> <br>
 
- <h4>🛑 Fontes/Imagens</h4>
+ <h4>🛑🎨 Fontes/Imagens</h4>
  ✅  https://cursos.alura.com.br<br> 
  ✅  https://www.oracle.com/br/education/oracle-next-education/<br>
  ✅  https://vercel.com<br> 
