@@ -96,9 +96,12 @@
  <br> <img src="./assets/printPage5.png" alt="Logo"> <br>
 
  <p> <h1> 4°- </h1>
- <br> <img src="./assets/printPage6.png" alt="Logo"> <br>
 
  ✅ Clique no botão "Descriptografar" e veja o resultado.<br>
+ 
+ <br> <img src="./assets/printPage6.png" alt="Logo"> <br>
+
+ 
 
 
 
