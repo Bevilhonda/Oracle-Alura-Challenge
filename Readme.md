@@ -28,7 +28,11 @@
 
 <p>E para emglobar o curso foi ministrado o uso do Git e Github , ambos 👣 passo a passo 👣 para que fosse possível você chegar até aqui ao ler todo este conteúdo. </p>
 
+<br> <br>
+
 <h1>🛑 O Desafio</h1>
+
+<br> <br>
 
 <h2>Praticando Lógica de Programação:Challenge Decodificador de Texto</h2>
 
@@ -118,7 +122,7 @@
 
 <h2 align="center"> ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE E PARA FINS DE ESTUDO. ‼️
  </h2>
- 
+
  <br> <br>
 
  <h4>🛑 Fontes/Imagens</h4>
