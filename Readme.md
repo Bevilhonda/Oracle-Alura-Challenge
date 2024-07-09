@@ -32,5 +32,11 @@
 <p>Ao final do curso de Logica de Programação foi disposto um desafio chamado de Challegen, e criar um Decodificador de Textos.O objetivo é criar uma aplicação que permita criptografar e descriptografar mensagens de texto.</p>
 <h3>🔺Funcionalidades</h3>
 <p>
-🔹 <strong>Criptografar texto: O usuário pode inserir um texto e clicar no botão "Criptografar" para obter a versão criptografada da mensagem.</strong><br>
+🔹 <strong>Criptografar: O usuário pode inserir um texto e clicar no botão "Criptografar" para transformar a mensagem em uma nova mensagem criptografada conforme regras exigidas no desafio.</strong><br>
+</p>
+<p>
+🔹 <strong>Descriptografar: O usuário pode inserir um texto criptografado e clicar no botão "Descriptografar" transformar a mensagem em uma nova mensagem Descriptografada conforme regras exigidas no desafio.</strong><br>
+</p>
+<p>
+🔹 <strong>Copiar: Após inserir um texto ou palavra usuário pode clicar no botão "Copiar", para copiar o texto criptografado ou descriptografado para a área de transferência.</strong><br>
 </p>
