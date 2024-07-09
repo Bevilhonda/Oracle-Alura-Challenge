@@ -2,7 +2,7 @@
 
 <p align="center"> 📜  Projeto Decodificador de texto </a> 📜 </P>
 
-<p> Sejam bem-vindos ao desafio:</P> <p> <strong>APRENDENDO NA PRÁTICA ATRAVÉS DO CURSO INICIANTE EM PROGRAMAÇÃO T7-ONE,DISPONIBILIZADO PELA PLATAFORMA ALURA EM PARCERIA COM A ORACLE .</strong></P>
+<p> 👋 Sejam bem-vindos ao meu projeto , você vai conhecer mais sobre o:</P> <p> <strong>APRENDENDO NA PRÁTICA ATRAVÉS DO CURSO INICIANTE EM PROGRAMAÇÃO T7-ONE,DISPONIBILIZADO PELA PLATAFORMA ALURA EM PARCERIA COM A ORACLE .</strong></P>
 
 <br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong>
 
@@ -85,7 +85,7 @@
 
 <h3>🔺Tutorial com Imagens</h3>
 
-<p> <h1> 1°- </h1>
+<p> <h1> 📌1°- </h1>
 
 <br> <img src="./assets/printPage1.png" alt="Logo"> <br>
 
@@ -95,20 +95,20 @@
 
  <br> <img src="./assets/printPage2.png" alt="Logo"> <br>
 
- <p> <h1> 2°- </h1>
+ <p> <h1> 📌2°- </h1>
 
 ✅ <strong>Clique no botão "Criptografar" para obter o resultado no campo ao lado.</strong><br><br> 
  </p>
 
  <br> <img src="./assets/printPage3.png" alt="Logo"> <br>
 
- <p> <h1> 3°- </h1>
+ <p> <h1> 📌3°- </h1>
 
  ✅ <strong>Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo onde você havia digitado o texto.</strong><br> <br>
 
  <br> <img src="./assets/printPage5.png" alt="Logo"> <br>
 
- <p> <h1> 4°- </h1>
+ <p> <h1>📌 4°- </h1>
 
  ✅ <strong>Clique no botão "Descriptografar" e veja o resultado.</strong><br><br>
 
@@ -116,11 +116,11 @@
 
  <br> <br>
 
-<h3>🔺Descubra qual é a nossa mensagem secreta!</h3>
+<h3>🔺Descubra qual é a nossa mensagem secreta!⚠️</h3>
 
 <p>Ao final foi lançada uma mensagem criptografada como desafio de teste para observar se realmente esta funcionando a pagina, a mensagem foi a seguinte:
 <p>
-🔹 <strong>"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"</strong><br>
+🔹📝 <strong>"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"</strong><br>
 </p>
 
 </p>
@@ -129,7 +129,7 @@
 
 <br> <br>
 
-<h2 align="center"> ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE E PARA FINS DE ESTUDO. ‼️
+<h2 align="center">💡 ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE E PARA FINS DE ESTUDO. ‼️
  </h2>
 
  <br> <br>
