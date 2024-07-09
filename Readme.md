@@ -70,13 +70,12 @@
 ✅ Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo "Digite seu texto..." caso queira descriptografar e clique no botão "Descriptografar" e veja o resultado. <br>
 </p>
 
-<h3>🔺Video da pagina em funcionamento</h3>
+<h3>🔺Tutorial com Imagens</h3>
+<br> <img src="./assets/printPage1.png> <br>
 
-<video width="600" controls>
-
-  <source src="./assets/tela.webm" type="video/webm">
-  
-</video>
+<p>
+✅ No campo "Digite seu texto..." e escreva o que deseja criptografar. <br> 
+ </p>
 
 
 
