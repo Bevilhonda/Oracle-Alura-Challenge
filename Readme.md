@@ -71,6 +71,11 @@
 
 <h3>🔺Video da pagina em funcionamento</h3>
 
+<video width="600" controls>
+  <source src="./assets/Gravação de tela de 09-07-2024 10:34:46.webm" type="video/mp4">
+ 
+</video>
+
 
 
 
