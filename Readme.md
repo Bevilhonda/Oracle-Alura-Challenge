@@ -18,13 +18,14 @@
 
 <br> <img src="./Oracle.png" alt="Logo"> <br>
 
-<p>Ao longo de 30 dias e reservando pelo menos 4 horas por dia foi possível concluir a primeira etapa que foi dividida entre os cursos de 📚  HTML  📚 CSS 📚 JS ,  e assim aprender  <strong> Lógica de programação</strong> junto com as linguagens de programação mais utilizadas no mundo.  </p>
+<p>Ao longo de 30 dias e reservando pelo menos 4 horas por dia foi possível concluir a primeira etapa que foi dividida entre os cursos de 📚  HTML  📚 CSS 📚 JS ,  e assim aprender  <strong> Lógica de programação</strong>. </p>
 
-<p>E para esta jornada tivemos uma equipe de peso ministrando as aulas que foram eles :  </p>
+<p>E para esta jornada tivemos uma equipe de peso ministrando as aulas, que foram eles :  </p>
 
 <br> <img src="./equipe.png" alt="Logo"> <br>
 
-<p>Cada etapa foi concluida e assim foi possivel compreender como são criadas paginas web ,e como são utilizadas as ferramentas de criação.</p>
+<p>Cada etapa foi concluida e assim foi possível compreender como são criadas paginas web ,e como são utilizadas as ferramentas de criação.</p>
+
 <p>E para emglobar o curso foi ministrado o uso do Git e Github , ambos 👣 passo a passo 👣 para que fosse possível você chegar até aqui ao ler todo este conteúdo. </p>
 
 <h1>🛑 O Desafio</h1>
@@ -73,7 +74,7 @@
 
 <video width="600" controls>
 
-  <source src="./assets/Gravação de tela de 09-07-2024 10:34:46.webm" type="video/webm">
+  <source src="./assets/tela.webm" type="video/webm">
   
 </video>
 
