@@ -1,3 +1,14 @@
+document.getElementById('inputText').addEventListener('input', function (event) {
+  let input = event.target;
+  let value = input.value;
+
+  // Remove letras maiúsculas e caracteres acentuados
+  value = value.replace(/[^a-z\s]/g, '');
+
+  // Atualiza o valor do campo de texto
+  input.value = value;
+});
+
 let outputText = document.getElementById("outputText");
 let afterResult = document.querySelector(".box-result-preview");
 let buttonCopy = document.querySelector(".box-result-preview-button-copy");
