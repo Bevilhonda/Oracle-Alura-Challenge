@@ -103,11 +103,6 @@
 
  <br> <br>
 
- 
-
-
-
-
 <h3>🔺Descubra qual é a nossa mensagem secreta!</h3>
 
 <p>Ao final foi lançada uma mensagem criptografada como desafio de teste para observar se realmente esta funcionando a pagina, a mensagem foi a seguinte:
@@ -119,8 +114,13 @@
 
 <p>Caso desejar saber o que está escrito na mensagem, copie a mensagem criptografada,clique no link do projeto,cole no campo "Digite seu texto..." e clique no botão "Descriptografar". </p>
 
+<br> <br>
+
 <h2 align="center"> ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE E PARA FINS DE ESTUDO. ‼️
  </h2>
+ 
+ <br> <br>
+
  <h4>🛑 Fontes/Imagens</h4>
  ✅  https://cursos.alura.com.br<br> 
  ✅  https://www.oracle.com/br/education/oracle-next-education/<br>
