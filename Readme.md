@@ -24,7 +24,7 @@
 
 <br> <img src="./equipe.png" alt="Logo"> <br>
 
-<p>Cada etapa foi concluida e assim foi possível compreender como são criadas paginas web ,e como são utilizadas as ferramentas de criação.</p>
+<p>Cada etapa foi concluida e assim foi possível compreender como são criadas paginas web ,e como são utilizadas as 🛠️ ferramentas de criação.</p>
 
 <p>E para emglobar o curso foi ministrado o uso do Git e Github , ambos 👣 passo a passo 👣 para que fosse possível você chegar até aqui ao ler todo este conteúdo. </p>
 
@@ -44,6 +44,11 @@
 🔹 <strong>Html</strong><br>
 🔹 <strong>CSS</strong><br>
 🔹 <strong>Javascript</strong><br>
+
+## 🔹
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
 </p>
 
 
@@ -129,7 +134,7 @@
  ✅  https://cursos.alura.com.br<br> 
  ✅  https://www.oracle.com/br/education/oracle-next-education/<br>
  ✅  https://vercel.com<br> 
- ✅  https://grupomonacodecultura.wordpress.com/2018/11/10/voce-conhece-o-gato-robotico-do-seculo-22-doraemon-%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93-saiba-mais-sobre-esse-anime-classico-do-japao-de-1969/<br> gato doraemon
+ ✅  https://grupomonacodecultura.wordpress.com/2018/11/10/voce-conhece-o-gato-robotico-do-seculo-22-doraemon-%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93-saiba-mais-sobre-esse-anime-classico-do-japao-de-1969/<br>
 
 
  
