@@ -76,7 +76,7 @@
 
 <br> <img src="./assets/printPage1.png" alt="Logo"> <br>
 
-✅ No campo "Digite seu texto..." e escreva o que deseja criptografar. <br> 
+✅ <strong> No campo "Digite seu texto..." e escreva o que deseja criptografar.</strong><br> <br> 
  </p>
 
 
@@ -84,21 +84,21 @@
 
  <p> <h1> 2°- </h1>
 
-✅ Clique no botão "Criptografar" para obter o resultado no campo ao lado.<br> 
+✅ <strong>Clique no botão "Criptografar" para obter o resultado no campo ao lado.</strong><br><br> 
  </p>
 
  <br> <img src="./assets/printPage3.png" alt="Logo"> <br>
 
  <p> <h1> 3°- </h1>
 
- ✅ Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo onde você havia digitado o texto. <br>
+ ✅ <strong>Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo onde você havia digitado o texto.</strong><br> <br>
 
  <br> <img src="./assets/printPage5.png" alt="Logo"> <br>
 
  <p> <h1> 4°- </h1>
 
- ✅ Clique no botão "Descriptografar" e veja o resultado.<br>
- 
+ ✅ <strong>Clique no botão "Descriptografar" e veja o resultado.</strong><br><br>
+
  <br> <img src="./assets/printPage6.png" alt="Logo"> <br>
 
  
