@@ -85,6 +85,9 @@
 ✅ Clique no botão "Criptografar" para obter o resultado no campo ao lado.<br> 
  </p>
  <br> <img src="./assets/printPage3.png" alt="Logo"> <br>
+ <p> <h1> 2°- </h1>
+ ✅ Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo onde você havia digitado o texto. <br>
+ <br> <img src="./assets/printPage5.png" alt="Logo"> <br>
 
 
 
