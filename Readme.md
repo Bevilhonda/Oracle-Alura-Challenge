@@ -8,7 +8,7 @@
 
 <a href="https://cursos.alura.com.br"></a>
 
-</strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade.<br>
+</strong> 💛 https://cursos.alura.com.br e https://www.oracle.com/br/education/oracle-next-education/ 🧡 e disponibilizado de forma gratuita para a comunidade.<br>
 
    <p> 💎 O objetivo principal é colocar em prática algumas das principais ferramentas para a construção de paginas web: <strong> HTML, CSS, JAVASCRIPT</strong> através de aulas dinamicas e intuitivas com exemplos práticos e exercicios.</p>
 
@@ -87,5 +87,10 @@
 
 <h2 align="center"> ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE E PARA FINS DE ESTUDO. ‼️
  </h2>
+ <h4>Fontes/Imagens</h4>
+ ✅  https://cursos.alura.com.br<br> 
+ ✅  https://www.oracle.com/br/education/oracle-next-education/<br>
+ ✅  https://vercel.com<br> 
+
 
 
