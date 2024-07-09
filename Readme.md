@@ -11,5 +11,5 @@
     💎 O objetivo principal é colocar em prática algumas das principais ferramentas para a construção de paginas web: <strong>HTML, CSS, JAVASCRIPT</strong> através de aulas dinamicas e intuitivas com exemplos práticos e exercicios.
 
 <h3>🛑 Não sendo exigidos nenhum Pré-Requisitos para aprender essas tecnologias.</h3>
-<p>Através da inscrição para a seleção de candidatos no site  <a href = "https://www.oracle.com/br/education/oracle-next-education/"> , fui selecionado e presenteado com uma bolsa para este curso oferecido entre uma parceria da Oracle Next Educadion e Alura, O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.</p>
+<p>Através da inscrição para a seleção de candidatos no site  <a href = "https://www.oracle.com/br/education/oracle-next-education/"></a> , fui selecionado e presenteado com uma bolsa para este curso oferecido entre uma parceria da Oracle Next Educadion e Alura, O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.</p>
 <br> <img src="./Oracle.png" alt="Logo"> <br>
