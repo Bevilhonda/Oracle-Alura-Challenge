@@ -47,7 +47,7 @@
 🔹 <strong>Git</strong><br>
 🔹 <strong>Github</strong><br>
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="20"/>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
