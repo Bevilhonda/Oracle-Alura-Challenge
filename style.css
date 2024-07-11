@@ -48,7 +48,7 @@ main {
 .input_form textarea,
 .input_form textarea:focus {
   width: 100%;
-  height: 250px;
+  height: 350px;
   border: none;
   resize: none;
   font-size: 22px;
@@ -178,9 +178,12 @@ textarea::placeholder {
 footer {
   background-color: var(--cor-terciaria);
   color: var(--cor-quaternaria);
-  padding: 20px;
+  
   text-align: center;
-  width: 100%;
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 @media (max-width: 1024px) {
