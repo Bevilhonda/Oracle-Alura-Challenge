@@ -224,8 +224,8 @@ footer {
   }
 
   .input {
-    padding-right: 0;
-    margin-bottom: 32px;
+    padding-right: 1px;
+    margin-bottom: 25px;
   }
 
   .input_form {
@@ -239,16 +239,16 @@ footer {
   }
 
   .campo_resultado{
-    padding: 24px;
+    padding: 20px;
   }
 
   .botao_copiar {
-    padding: 16px;
-    font-size: 14px;
+    padding: 14px;
+    font-size: 12px;
   }
 
   footer {
-    padding: 24px;
+    padding: 15px;
   }
 }
 
