@@ -178,7 +178,6 @@ textarea::placeholder {
 footer {
   background-color: var(--cor-terciaria);
   color: var(--cor-quaternaria);
-  
   text-align: center;
   width: 100vw;
   position: absolute;
@@ -186,84 +185,42 @@ footer {
   left: 0;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   main {
     flex-direction: column;
-    padding: 24px;
+    padding: 15px;
   }
-
-  .input {
-    padding-top: 16px;
-    padding-right: 0;
-    margin-bottom: 64px;
-  }
-
-  .input_logo {
-    margin-bottom: 32px;
-  }
-
-  .input_form {
-    font-size: 12px;
-  }
-
-  .campo_resultado {
-    padding: 1rem;
-  }
-
-  .campo_resultado_visual {
-    display: none;
-  }
-
-  .info_resultado {
-    font-size: 16px;
-  }
-
-  .botao_copiar {
-    padding: 16px;
-    font-size: 14px;
-  }
-
-  footer {
-    padding: 1rem;
-  }
-}
-
-@media (max-width: 768px) {
-  .input {
-    padding: 0;
-  }
-
-  .campo_resultado {
+  
+  .input, .campo_resultado {
+    flex: 1 100%;
     padding: 10px;
   }
-
-  .info_resultado {
-    font-size: 14px;
+  
+  .button-crip, .button-discr {
+    width: 100%;
   }
-
+  
   .botao_copiar {
     width: 100%;
-    font-size: 12px;
+  }
+  
+  .campo_resultado textarea, .campo_resultado textarea:focus {
+    font-size: 1.2rem;
   }
 }
 
 @media (max-width: 480px) {
   .input_form textarea,
   .campo_resultado textarea {
-    font-size: 16px;
+    height: 250px;
+    font-size: 18px;
   }
-
-  .input_submit_info {
-    font-size: 12px;
+  
+  .button-crip, .button-discr {
+    font-size: 14px;
   }
-
-  .botao_copiar {
-    padding: 8px;
-    font-size: 10px;
-  }
-
-  footer {
-    padding: 1rem;
-    font-size: 12px;
+  
+  .info_resultado {
+    font-size: 20px;
   }
 }
