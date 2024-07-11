@@ -261,4 +261,9 @@ footer {
     padding: 8px;
     font-size: 10px;
   }
+
+  footer {
+    padding: 1rem;
+    font-size: 12px;
+  }
 }
