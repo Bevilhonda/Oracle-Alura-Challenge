@@ -179,8 +179,9 @@ footer {
   background-color: var(--cor-terciaria);
   color: var(--cor-quaternaria);
   text-align: center;
-  width: 100vw;
-  position: absolute;
+  width: 100%;
+  padding: 5px 0;
+  position: fixed;
   bottom: 0;
   left: 0;
 }
