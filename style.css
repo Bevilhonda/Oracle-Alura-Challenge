@@ -186,42 +186,79 @@ footer {
   left: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   main {
     flex-direction: column;
-    padding: 15px;
+    padding: 24px;
   }
-  
-  .input, .campo_resultado {
-    flex: 1 100%;
+
+  .input {
+    padding-top: 16px;
+    padding-right: 0;
+    margin-bottom: 64px;
+  }
+
+  .input_logo {
+    margin-bottom: 32px;
+  }
+
+  .input_form {
+    font-size: 12px;
+  }
+
+  .campo_resultado {
+    padding: 1rem;
+  }
+
+  .campo_resultado_visual {
+    display: none;
+  }
+
+  .info_resultado {
+    font-size: 16px;
+  }
+
+  .botao_copiar {
+    padding: 16px;
+    font-size: 14px;
+  }
+
+  footer {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .input {
+    padding: 0;
+  }
+
+  .campo_resultado {
     padding: 10px;
   }
-  
-  .button-crip, .button-discr {
-    width: 100%;
+
+  .info_resultado {
+    font-size: 14px;
   }
-  
+
   .botao_copiar {
     width: 100%;
-  }
-  
-  .campo_resultado textarea, .campo_resultado textarea:focus {
-    font-size: 1.2rem;
+    font-size: 12px;
   }
 }
 
 @media (max-width: 480px) {
   .input_form textarea,
   .campo_resultado textarea {
-    height: 250px;
-    font-size: 18px;
+    font-size: 16px;
   }
-  
-  .button-crip, .button-discr {
-    font-size: 14px;
+
+  .input_submit_info {
+    font-size: 12px;
   }
-  
-  .info_resultado {
-    font-size: 20px;
+
+  .botao_copiar {
+    padding: 8px;
+    font-size: 10px;
   }
 }
