@@ -1,25 +1,27 @@
-
 :root {
   --cor-primaria: white;
   --cor-secundaria: greenyellow;
   --cor-terciaria: lightskyblue;
-  
+  --cor-quaternaria: black;
+  --fonte-primaria: 'Times New Roman', Times, serif;
 }
-*{
+
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  
 }
 
 body {
-  background-color:var(--cor-primaria);
+  background-color: var(--cor-primaria);
+  color: var(--cor-quaternaria);
+  font-family: var(--fonte-primaria);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  
+  padding: 20px;
 }
 
 main {
@@ -47,15 +49,14 @@ main {
 .input_form textarea:focus {
   width: 100%;
   height: 250px;
-  border: 0 none;
+  border: none;
   resize: none;
   font-size: 22px;
   font-weight: 600;
   line-height: 150%;
-  outline: 0;
-  background-color:var(--cor-primaria);
+  outline: none;
+  background-color: var(--cor-primaria);
   text-transform: lowercase;
-  resize: none;
 }
 
 textarea::placeholder {
@@ -75,7 +76,7 @@ textarea::placeholder {
   display: flex;
   align-items: center;
   gap: 5px;
-  color:black;
+  color: var(--cor-quaternaria);
   font-size: 15px;
 }
 
@@ -114,7 +115,7 @@ textarea::placeholder {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color:grey;
+  background-color: grey;
   box-shadow: 0px 30px 32px -8px rgba(0, 0, 0, 0.08);
   border-radius: 32px;
   padding: 20px;
@@ -126,13 +127,13 @@ textarea::placeholder {
 .campo_resultado textarea:focus {
   width: 100%;
   height: 100%;
-  border: 0 none;
+  border: none;
   resize: none;
   font-weight: 600;
   line-height: 150%;
   outline: none;
   background-color: grey;
-  color:chartreuse;
+  color: chartreuse;
   font-size: 1.5rem;
   margin: 1rem;
   display: none;
@@ -157,8 +158,7 @@ textarea::placeholder {
 .info_resultado {
   font-size: 24px;
   font-weight: bold;
-  color:black;
-  
+  color: var(--cor-quaternaria);
 }
 
 .botao_copiar {
@@ -177,9 +177,9 @@ textarea::placeholder {
 
 footer {
   background-color: var(--cor-terciaria);
-  color: black;
+  color: var(--cor-quaternaria);
   padding: 20px;
-  text-align: center; 
+  text-align: center;
   width: 100%;
 }
 
@@ -225,5 +225,37 @@ footer {
   }
 }
 
+@media (max-width: 768px) {
+  .input {
+    padding: 0;
+  }
 
+  .campo_resultado {
+    padding: 10px;
+  }
 
+  .info_resultado {
+    font-size: 14px;
+  }
+
+  .botao_copiar {
+    width: 100%;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .input_form textarea,
+  .campo_resultado textarea {
+    font-size: 16px;
+  }
+
+  .input_submit_info {
+    font-size: 12px;
+  }
+
+  .botao_copiar {
+    padding: 8px;
+    font-size: 10px;
+  }
+}
