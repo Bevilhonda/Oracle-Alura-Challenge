@@ -76,9 +76,9 @@ textarea::placeholder {
 
 .icone_exclamacao {
   width: 24px;
-  /* Defina o tamanho desejado para largura */
+  
   height: 24px;
-  /* Defina o tamanho desejado para altura */
+  
 }
 
 .box-input-submmit-buttons {
@@ -217,14 +217,14 @@ footer {
   }
 }
 @media (max-width: 1024px) {
-  /* Estilos para telas menores que 1024px de largura */
+  
   main {
     padding: 24px;
   }
 
   .box-input {
     padding-right: 0;
-    margin-bottom: 32px; /* Reduzindo a margem inferior para um ajuste mais compacto */
+    margin-bottom: 32px;
   }
 
   .box-input-submit-info {
@@ -233,8 +233,8 @@ footer {
 
   .button-crip,
   .button-discr {
-    padding: 20px; /* Reduzindo o padding dos botões */
-    font-size: 14px; /* Reduzindo o tamanho da fonte dos botões */
+    padding: 20px; 
+    font-size: 14px; 
   }
 
   .box-result {
