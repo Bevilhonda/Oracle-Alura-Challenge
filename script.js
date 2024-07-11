@@ -2,17 +2,17 @@ document.getElementById('inputText').addEventListener('input', function (event) 
   let input = event.target;
   let value = input.value;
 
-  // Remove letras maiúsculas e caracteres acentuados
+  
   value = value.replace(/[^a-z\s]/g, '');
 
-  // Atualiza o valor do campo de texto
+  
   input.value = value;
 });
 
 let outputText = document.getElementById("outputText");
-let afterResult = document.querySelector(".box-result-preview");
-let buttonCopy = document.querySelector(".box-result-preview-button-copy");
-let boxResult = document.querySelector(".box-result");
+let afterResult = document.querySelector(".campo_resultado_visual");
+let buttonCopy = document.querySelector(".botao_copiar");
+let boxResult = document.querySelector(".campo_resultado");
 
 function adjustStyle() {
   afterResult.style.display = "none";

@@ -12,22 +12,22 @@
   <main>
 
 
-    <section class="box-input">
-      <div class="box-input-logo">
+    <section class="input">
+      <div class="input_logo">
         <img src="./assets/logo.svg" alt="Logo">
         
       </div>
-      <div class="box-input-form">
+      <div class="input_form">
         <form>
           <textarea name="texto" id="inputText" placeholder="Digite seu texto..."></textarea>
         </form>
-        <div class="box-input-submit">
-          <div class="box-input-submit-info">
+        <div class="input_submit">
+          <div class="input_submit_info">
             
             <img src="./assets/exclamation_circle_icon_152848.png" alt="icone_exclamacao" class="icone_exclamacao">
             Apenas letras minúsculas e sem acento.
           </div>
-          <div class="box-input-submmit-buttons">
+          <div class="input_submmit_buttons">
             <button class="button-crip" onclick="criptografar()">Criptografar</button>
             <button class="button-discr" onclick="descriptografar()">Descriptografar</button>
           </div>
@@ -37,16 +37,16 @@
     </section>
 
 
-    <section class="box-result">
+    <section class="campo_resultado">
       <textarea id="outputText" readonly></textarea>
-      <div class="box-result-preview">
+      <div class="campo_resultado_visual">
         <img src="./assets/doraemon.jpg" alt="Ilustração do gato doraemon."
-          class="box-result-preview-ilustration">
+          class="imagem_resultado">
 
-        <p class="box-result-preview-info">Nenhuma mensagem encontrada</p>
+        <p class="info_resultado">Nenhuma mensagem encontrada</p>
         <span>Digite um texto que você deseja criptografar ou descriptografar.</span>
       </div>
-      <button onclick="copiarParaAreaInput()" class="box-result-preview-button-copy">Copiar</button>
+      <button onclick="copiarParaAreaInput()" class="botao_copiar">Copiar</button>
     </section>
   </main>
 
