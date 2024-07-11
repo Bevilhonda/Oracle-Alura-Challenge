@@ -1,21 +1,29 @@
 
-* {
+:root {
+  --cor-primaria: white;
+  --cor-secundaria: greenyellow;
+  --cor-terciaria: lightskyblue;
+  
+}
+*{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family:'Times New Roman', Times, serif;
+  
 }
 
 body {
-  background-color:grey;
+  background-color:var(--cor-primaria);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  
 }
 
 main {
+  flex: 1;
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -32,8 +40,7 @@ main {
 }
 
 .input_logo {
-  margin-bottom: 80px;
-  color: black;
+  margin-bottom: 20px;
 }
 
 .input_form textarea,
@@ -42,19 +49,18 @@ main {
   height: 250px;
   border: 0 none;
   resize: none;
-  color: #0a3871;
   font-size: 22px;
   font-weight: 600;
   line-height: 150%;
   outline: 0;
-  background-color: grey;
+  background-color:var(--cor-primaria);
   text-transform: lowercase;
   resize: none;
 }
 
 textarea::placeholder {
-  color: #0a3871;
-  opacity: 70%;
+  color: var(--cor-terciaria);
+  opacity: 90%;
   text-transform: none;
 }
 
@@ -62,22 +68,20 @@ textarea::placeholder {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 16px;
+  gap: 1px;
 }
 
 .input_submit_info {
   display: flex;
   align-items: center;
   gap: 5px;
-  color: #495057;
-  font-size: 12px;
+  color:black;
+  font-size: 15px;
 }
 
 .icone_exclamacao {
   width: 24px;
-  
   height: 24px;
-  
 }
 
 .input_submmit_buttons {
@@ -172,8 +176,11 @@ textarea::placeholder {
 }
 
 footer {
-  color:black;
+  background-color: var(--cor-terciaria);
+  color: black;
   padding: 20px;
+  text-align: center; 
+  width: 100%;
 }
 
 @media (max-width: 1024px) {
