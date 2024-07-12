@@ -88,8 +88,7 @@
 
 ### 🔺 Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wIaSZD54FuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://github.com/user-attachments/assets/8998c42c-59c8-40c6-a505-cf5264ac801b
 
 <h3>🔺Tutorial com Imagens</h3>
 
