@@ -83,9 +83,6 @@
 ✅ Clique no botão "Copiar" para copiar o texto criptografado, e cole no campo "Digite seu texto..." caso queira descriptografar e clique no botão "Descriptografar" e veja o resultado. <br>
 </p>
 
-<h3>🔺Video </h3>
-
-
 ### 🔺 Video
 
 https://github.com/user-attachments/assets/8998c42c-59c8-40c6-a505-cf5264ac801b
