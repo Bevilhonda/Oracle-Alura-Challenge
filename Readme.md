@@ -86,7 +86,10 @@
 <h3>🔺Video </h3>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wIaSZD54FuM?si=GRNhirPm-rEmT4Uj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### 🔺 Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wIaSZD54FuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <h3>🔺Tutorial com Imagens</h3>
 
