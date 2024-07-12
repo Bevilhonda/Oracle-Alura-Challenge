@@ -85,7 +85,7 @@
 
 ### 🔺 Video <br>
 
-https://github.com/user-attachments/assets/8998c42c-59c8-40c6-a505-cf5264ac801b<br>
+https://github.com/user-attachments/assets/8998c42c-59c8-40c6-a505-cf5264ac801b  <br>
 
 
 <h3>🔺Tutorial com Imagens</h3><br>
