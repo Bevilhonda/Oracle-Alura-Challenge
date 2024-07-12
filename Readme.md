@@ -86,6 +86,10 @@
 ### 🔺 Video <br>
 
 
+https://github.com/user-attachments/assets/6dce65df-f08c-424d-ae44-8331d83dcf1a
+
+
+
 <h3>🔺Tutorial com Imagens</h3><br>
 
 <p> <h1> 📌1°- </h1>
