@@ -18,10 +18,10 @@ body {
   font-family: var(--fonte-primaria);
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   min-height: 100vh;
-  padding: 20px;
+  padding: 1.25rem;
 }
 
 main {
@@ -29,7 +29,7 @@ main {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  padding: 30px;
+  padding: 1.87rem;
   flex-wrap: wrap;
 }
 
@@ -38,20 +38,20 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding-right: 20px;
+  padding-right: 1.25rem;
 }
 
 .input_logo {
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 
 .input_form textarea,
 .input_form textarea:focus {
   width: 100%;
-  height: 350px;
+  height: 21.87rem;
   border: none;
   resize: none;
-  font-size: 22px;
+  font-size: 1.38rem;
   font-weight: 600;
   line-height: 150%;
   outline: none;
@@ -75,27 +75,27 @@ textarea::placeholder {
 .input_submit_info {
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 0.312rem;
   color: var(--cor-quaternaria);
-  font-size: 15px;
+  font-size: 0.93rem;
 }
 
 .icone_exclamacao {
-  width: 24px;
-  height: 24px;
+  width: 1.5rem;
+  height: 1.5rem;
 }
 
 .input_submmit_buttons {
   display: flex;
-  gap: 15px;
+  gap: 1.5rem;
 }
 
 .button-crip,
 .button-discr {
-  padding: 10px;
-  width: 250px;
-  font-size: 16px;
-  border-radius: 24px;
+  padding: 0.625rem;
+  width: 15.62rem;
+  font-size: 1rem;
+  border-radius: 1.5rem;
   border: 1px solid #0a3871;
   cursor: pointer;
 }
@@ -116,9 +116,8 @@ textarea::placeholder {
   flex-direction: column;
   justify-content: center;
   background-color: grey;
-  box-shadow: 0px 30px 32px -8px rgba(0, 0, 0, 0.08);
-  border-radius: 32px;
-  padding: 20px;
+  border-radius: 2rem;
+  padding: 1.25rem;
   align-items: center;
   font-weight: 600;
 }
@@ -146,27 +145,27 @@ textarea::placeholder {
   align-items: center;
   justify-content: center;
   text-align: center;
-  gap: 16px;
-  padding: 32px 0;
+  gap: 1rem;
+  padding: 2rem 0;
 }
 
 .imagem_resultado {
-  max-width: 300px;
+  max-width: 18.75rem;
   width: 100%;
 }
 
 .info_resultado {
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: bold;
   color: var(--cor-quaternaria);
 }
 
 .botao_copiar {
   display: flex;
-  padding: 10px;
+  padding: 0.625rem;
   width: 20%;
-  font-size: 16px;
-  border-radius: 24px;
+  font-size: 1rem;
+  border-radius: 1.5rem;
   border: 1px solid #0a3871;
   background-color: #ffffff;
   color: #0a3871;
@@ -178,32 +177,29 @@ textarea::placeholder {
 footer {
   background-color: var(--cor-terciaria);
   color: var(--cor-quaternaria);
-  
   text-align: center;
   width: 100vw;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  padding: 1rem 0;
 }
 
 @media (max-width: 1024px) {
   main {
     flex-direction: column;
-    padding: 24px;
+    padding: 1.5rem;
   }
 
   .input {
-    padding-top: 16px;
+    padding-top: 1rem;
     padding-right: 0;
-    margin-bottom: 64px;
+    margin-bottom: 4rem;
   }
 
   .input_logo {
-    margin-bottom: 32px;
+    margin-bottom: 2rem;
   }
 
   .input_form {
-    font-size: 12px;
+    font-size: 0.75rem;
   }
 
   .campo_resultado {
@@ -215,12 +211,12 @@ footer {
   }
 
   .info_resultado {
-    font-size: 16px;
+    font-size: 1rem;
   }
 
   .botao_copiar {
-    padding: 16px;
-    font-size: 14px;
+    padding: 1rem;
+    font-size: 0.875rem;
   }
 
   footer {
@@ -234,31 +230,70 @@ footer {
   }
 
   .campo_resultado {
-    padding: 10px;
+    padding: 0.625rem;
   }
 
   .info_resultado {
-    font-size: 14px;
+    font-size: 0.875rem;
   }
 
   .botao_copiar {
     width: 100%;
-    font-size: 12px;
+    font-size: 0.75rem;
   }
 }
 
 @media (max-width: 480px) {
   .input_form textarea,
   .campo_resultado textarea {
-    font-size: 16px;
+    font-size: 0.75rem;
   }
 
   .input_submit_info {
-    font-size: 12px;
+    font-size: 0.75rem;
   }
 
   .botao_copiar {
-    padding: 8px;
-    font-size: 10px;
+    padding: 0.5rem;
+    font-size: 0.625rem;
+  }
+}
+@media (max-width: 768px) {
+  main {
+    flex-direction: column;
+    padding: 0.937rem;
+  }
+  
+  .input, .campo_resultado {
+    flex: 1 100%;
+    padding: 0.625rem;
+  }
+  
+  .button-crip, .button-discr {
+    width: 100%;
+  }
+  
+  .botao_copiar {
+    width: 100%;
+  }
+  
+  .campo_resultado textarea, .campo_resultado textarea:focus {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .input_form textarea,
+  .campo_resultado textarea {
+    height: 15.625rem;
+    font-size: 1.125rem;
+  }
+  
+  .button-crip, .button-discr {
+    font-size: 0.875rem;
+  }
+  
+  .info_resultado {
+    font-size: 1.25rem;
   }
 }
