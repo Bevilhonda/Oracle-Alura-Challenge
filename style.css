@@ -115,7 +115,7 @@ textarea::placeholder {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: grey;
+  background-color: var(--cor-primaria);
   border-radius: 2rem;
   padding: 1.25rem;
   align-items: center;
