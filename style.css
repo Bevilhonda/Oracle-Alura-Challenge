@@ -133,15 +133,16 @@ textarea::placeholder {
   height: 100%;
   border: none;
   resize: none;
-  font-weight: 600;
-  line-height: 150%;
+  font-weight: 400;
+  line-height: 200%;
   outline: none;
   background-color: grey;
   color: chartreuse;
   font-size: 1.5rem;
-  margin: 1rem;
   display: none;
   text-transform: lowercase;
+  border-radius: 1rem;
+  
 }
 
 .campo_resultado_visual {
