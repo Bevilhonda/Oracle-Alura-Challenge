@@ -238,8 +238,8 @@ textarea::placeholder {
 
 @media (max-width: 768px) {
   .logoAlura {
-    width: 0.5rem; 
-    height: 0.5rem; 
+    width: 2.5rem; 
+    height: 2.5rem; 
     margin-bottom: 0.5rem; 
   }
   main {
