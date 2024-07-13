@@ -242,6 +242,9 @@ textarea::placeholder {
     height: 2.5rem; 
      
   }
+  .input{
+    padding: 0.01rem;
+  }
   .input_form {
     padding: 0.01rem;
   
