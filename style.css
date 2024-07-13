@@ -283,7 +283,7 @@ textarea::placeholder {
   .campo_resultado textarea {
     height: 10rem;
     font-size: 1.125rem;
-    margin-top: 0.5rem;
+    margin-top: 0.01rem;
   }
 
   .button-crip, .button-discr {
