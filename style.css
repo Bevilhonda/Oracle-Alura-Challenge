@@ -242,6 +242,9 @@ textarea::placeholder {
     height: 2.5rem; 
     margin-bottom: 0.5rem; 
   }
+  .input_form {
+    padding: 0.625rem;
+  }
   main {
     flex-direction: column;
     padding: 0.937rem;
