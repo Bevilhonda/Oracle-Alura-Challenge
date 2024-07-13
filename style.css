@@ -41,7 +41,7 @@ main {
   padding-right: 1.25rem;
 }
 
-.logoAlura{
+.logoAlura {
   width: 3rem;
   height: 3rem;
   margin-bottom: 0;
@@ -62,8 +62,8 @@ main {
   text-transform: lowercase;
   padding-left: 1.25rem;
   border-radius: 1rem;
-  
-  
+
+
 }
 
 textarea::placeholder {
@@ -190,10 +190,11 @@ textarea::placeholder {
   width: 100vw;
   padding: 1rem 0;
   font-size: 1rem;
-  
-  
+
+
 }
-.link_about{
+
+.link_about {
   text-decoration: none;
 }
 
@@ -255,6 +256,7 @@ textarea::placeholder {
 }
 
 @media (max-width: 480px) {
+
   .input_form textarea,
   .campo_resultado textarea {
     font-size: 0.75rem;
@@ -269,43 +271,53 @@ textarea::placeholder {
     font-size: 0.625rem;
   }
 }
+
 @media (max-width: 768px) {
   main {
     flex-direction: column;
     padding: 0.937rem;
   }
-  
+
   .input, .campo_resultado {
     flex: 1 100%;
     padding: 0.625rem;
   }
-  
+
   .button-crip, .button-discr {
     width: 100%;
   }
-  
+
   .botao_copiar {
     width: 100%;
   }
-  
+
   .campo_resultado textarea, .campo_resultado textarea:focus {
     font-size: 1.2rem;
   }
 }
 
 @media (max-width: 480px) {
-  
+
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+    padding: 1.25rem;
+  }
+
   .input_form textarea,
   .campo_resultado textarea {
     height: 10rem;
     font-size: 1.125rem;
     margin-top: 0.5rem;
   }
-  
+
   .button-crip, .button-discr {
     font-size: 0.875rem;
   }
-  
+
   .info_resultado {
     font-size: 1.25rem;
   }
