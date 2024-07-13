@@ -300,11 +300,7 @@ textarea::placeholder {
 
   body {
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    min-height: 100vh;
-    padding: 1.25rem;
+    padding: 0.5rem;
   }
 
   .input_form textarea,
