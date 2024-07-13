@@ -248,7 +248,7 @@ textarea::placeholder {
   }
   main {
     flex-direction: column;
-    padding: 0.1rem;
+    padding: 0.8rem;
   }
 
   .input, .campo_resultado {
