@@ -244,6 +244,8 @@ textarea::placeholder {
   }
   .input_form {
     padding: 0.625rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
   }
   main {
     flex-direction: column;
