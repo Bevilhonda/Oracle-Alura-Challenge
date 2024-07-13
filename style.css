@@ -246,12 +246,12 @@ textarea::placeholder {
     padding: 0.01rem;
   }
   .input_form {
-    padding: 0.01rem;
+    padding: 0.001rem;
   
   }
   main {
     flex-direction: column;
-    padding: 0.8rem;
+    padding: 0.08rem;
   }
 
   .input, .campo_resultado {
