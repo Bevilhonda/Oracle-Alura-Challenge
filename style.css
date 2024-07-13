@@ -16,7 +16,7 @@ body {
   background-color: var(--cor-primaria);
   color: var(--cor-quaternaria);
   font-family: var(--fonte-primaria);
-  
+  display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
