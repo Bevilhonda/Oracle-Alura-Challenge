@@ -299,7 +299,7 @@ textarea::placeholder {
   }
   .input_form textarea,
   .campo_resultado textarea {
-    height: 15.625rem;
+    height: 10rem;
     font-size: 1.125rem;
   }
   
