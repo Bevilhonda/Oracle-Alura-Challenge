@@ -207,7 +207,7 @@ textarea::placeholder {
   .input {
     padding-top: 1rem;
     padding-right: 0;
-    margin-bottom: 4rem;
+    margin-bottom: 10rem;
   }
 
   .input_form {
