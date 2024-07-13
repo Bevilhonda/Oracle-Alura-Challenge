@@ -57,6 +57,8 @@ main {
   outline: none;
   background-color: var(--cor-primaria);
   text-transform: lowercase;
+  padding-left: 1.25rem;
+  
 }
 
 textarea::placeholder {
