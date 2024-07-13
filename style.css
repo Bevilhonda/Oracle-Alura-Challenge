@@ -16,7 +16,7 @@ body {
   background-color: var(--cor-primaria);
   color: var(--cor-quaternaria);
   font-family: var(--fonte-primaria);
-  display: flex;
+  
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
@@ -299,6 +299,7 @@ textarea::placeholder {
   .campo_resultado textarea {
     height: 10rem;
     font-size: 1.125rem;
+    margin-top: 0.5rem;
   }
   
   .button-crip, .button-discr {
