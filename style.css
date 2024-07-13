@@ -237,42 +237,11 @@ textarea::placeholder {
 }
 
 @media (max-width: 768px) {
-  .input {
-    padding: 0;
+  .logoAlura {
+    width: 2.5rem; 
+    height: 2.5rem; 
+    margin-bottom: 0.5rem; 
   }
-
-  .campo_resultado {
-    padding: 0.625rem;
-  }
-
-  .info_resultado {
-    font-size: 0.875rem;
-  }
-
-  .botao_copiar {
-    width: 100%;
-    font-size: 0.75rem;
-  }
-}
-
-@media (max-width: 480px) {
-
-  .input_form textarea,
-  .campo_resultado textarea {
-    font-size: 0.75rem;
-  }
-
-  .input_submit_info {
-    font-size: 0.75rem;
-  }
-
-  .botao_copiar {
-    padding: 0.5rem;
-    font-size: 0.625rem;
-  }
-}
-
-@media (max-width: 768px) {
   main {
     flex-direction: column;
     padding: 0.937rem;
