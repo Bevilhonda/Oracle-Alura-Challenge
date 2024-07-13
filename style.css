@@ -44,6 +44,10 @@ main {
 .input_logo {
   margin-bottom: 1.25rem;
 }
+.logoAlura{
+  width: 3rem;
+
+}
 
 .input_form textarea,
 .input_form textarea:focus {
