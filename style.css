@@ -294,9 +294,7 @@ textarea::placeholder {
 }
 
 @media (max-width: 480px) {
-  .logoAlura {
-    margin-bottom: 0;
-  }
+  
   .input_form textarea,
   .campo_resultado textarea {
     height: 10rem;
