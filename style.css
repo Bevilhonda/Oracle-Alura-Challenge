@@ -58,6 +58,7 @@ main {
   background-color: var(--cor-primaria);
   text-transform: lowercase;
   padding-left: 1.25rem;
+  margin-top: 1rem;
   
 }
 
