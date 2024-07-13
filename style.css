@@ -142,7 +142,8 @@ textarea::placeholder {
   display: none;
   text-transform: lowercase;
   border-radius: 1rem;
-  
+  padding: 1rem;
+
 }
 
 .campo_resultado_visual {
