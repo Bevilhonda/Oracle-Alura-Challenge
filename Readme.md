@@ -123,6 +123,35 @@ https://github.com/user-attachments/assets/6dce65df-f08c-424d-ae44-8331d83dcf1a
 
  <br> <br>
 
+ <h3>🔺🛑⚠️ Caixa de Mensagem de erro na tela  </h3>
+ <br>
+ <p> Na primeira finalização do projeto eu usei uma função que apenas impedia o usuário de 
+ digitar palavras com letra maiúscula e acentos e não havia essa função que exibe um alerta
+ na tela caso o usuário digita-se uma palavra com acento ou letra maiúscula.</p>
+
+ <p> Foi usado o evento keydown que serve para capturar quando o usuário pressiona uma tecla.
+ E dentro de uma condição IF() : 
+ <br>
+ if (event.key === 'Enter') { // e aqui verifica se a tecla pressionada foi "Enter".
+  <br> foi feita a lógica para manipular e apresentar a mensagem de erro caso o usuário digite
+  uma palavra com acento ou letra maiúscula.
+ </p>
+ <p> No arquivo CSS o estilo aplicado através do .message-box{} , onde o .message-box é uma classe do CSS,  são usados algumas propriedades do CSS que combinados criam um elemento visualmente destacado na tela, com uma borda e sombra suaves.</P>
+ <p> Veja abaixo o que cada propriedade faz:</p>
+ <p>
+ ✅ position: fixed;: Define que o elemento será posicionado de forma fixa em relação à viewport (janela do navegador). Isso significa que ele não se moverá quando a página for rolada.
+ ✅ top: 50%; left: 50%;: Posiciona o elemento no centro da viewport vertical e horizontalmente.
+ ✅ transform: translate(-50%, -50%);: A transformação translate é usada para ajustar o posicionamento do elemento em relação ao seu próprio tamanho. Neste caso, -50% move o elemento de volta em 50% da sua própria largura e altura, garantindo que o centro do elemento fique alinhado com o centro da viewport.
+ ✅ background-color: #fff;: Define a cor de fundo do elemento como branco (#fff).
+ ✅ color: #000;: Define a cor do texto dentro do elemento como preto (#000).
+ ✅ padding: 1rem;: Define o preenchimento interno do elemento como 1rem (equivalente a 16 pixels).
+ ✅ border: 1px solid #ccc;: Adiciona uma borda sólida de 1px com cor cinza claro (#ccc) ao redor do elemento.
+ ✅ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);: Aplica uma sombra ao redor do elemento. 0 0 10px define um deslocamento de sombra zero na horizontal e vertical, com um raio de desfoque de 10px. rgba(0, 0, 0, 0.1) define a cor da sombra como preto com uma opacidade de 0.1.
+ ✅ z-index: 9999;: Define a ordem de empilhamento do elemento. z-index especifica a camada na qual o elemento aparecerá em relação a outros elementos. Um valor alto, como 9999, garante que o elemento fique acima de outros elementos na página.
+ ✅ font-size: 1.5rem;: Define o tamanho da letra.
+ </p>
+ <br>
+ 
 <h3>🔺Descubra qual é a nossa mensagem secreta!⚠️</h3>
 
 <p>Ao final foi lançada uma mensagem criptografada como desafio de teste para observar se realmente esta funcionando a pagina, a mensagem foi a seguinte:

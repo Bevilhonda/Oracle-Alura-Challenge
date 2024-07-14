@@ -59,7 +59,7 @@ main {
   line-height: 150%;
   outline: none;
   background-color: var(--cor-primaria);
-  text-transform: lowercase;
+  /* text-transform: lowercase; se eu manter esse trecho ,transforma letra maiuscula em minuscula*/
   padding-left: 1.25rem;
   border-radius: 1rem;
 
@@ -142,7 +142,7 @@ textarea::placeholder {
   color: chartreuse;
   font-size: 1.5rem;
   display: none;
-  text-transform: lowercase;
+  /* text-transform: lowercase; se eu manter esse trecho ,transforma letra maiuscula em minuscula*/
   border-radius: 1rem;
   padding: 1rem;
 
@@ -197,6 +197,23 @@ textarea::placeholder {
 .link_about {
   text-decoration: none;
 }
+
+.message-box {
+  position: fixed;
+  top: 25%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  background-color: #040536;
+  color: #4ff378;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 9999;
+  font-size: 1.5rem; 
+}
+/* no meu Readme explico pra que serve cada item deste estilo aplicado 
+na caixa de mensagem que eu usei ao invés do alert */
 
 @media (max-width: 1024px) {
   main {
@@ -254,7 +271,7 @@ textarea::placeholder {
 
   .input, .campo_resultado {
     flex: 1 100%;
-    padding: 0.625rem;
+    
   }
 
   .button-crip, .button-discr {
