@@ -292,6 +292,10 @@ na caixa de mensagem que eu usei ao invés do alert */
     font-size: 1.2rem;
   }
   .message-box {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     width: 50%; 
     height: auto; 
     font-size: 1rem;
