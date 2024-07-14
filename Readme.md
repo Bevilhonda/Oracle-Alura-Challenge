@@ -126,16 +126,13 @@ https://github.com/user-attachments/assets/6dce65df-f08c-424d-ae44-8331d83dcf1a
  <h3>🔺🛑⚠️ Caixa de Mensagem de erro na tela  </h3>
  <br>
  <p>🔹 Na primeira finalização do projeto eu usei uma função que apenas impedia o usuário de 
- digitar palavras com letra maiúscula e acentos e não havia essa função que exibe um alerta
- na tela caso o usuário digita-se uma palavra com acento ou letra maiúscula.</p>
+ digitar palavras com letra maiúscula e acentos e não havia essa função que exibe uma mensagem 
+ de erro na tela caso o usuário digita-se uma palavra com acento ou letra maiúscula.</p>
 
- <p>🔹 Foi usado o evento keydown que serve para capturar quando o usuário pressiona uma tecla.
- E dentro de uma condição IF() : 
+ <p>🔹 Foi criado uma função chamada mensagemDeErro(message) que recebe um parêmetro , este 
+ parametro é uma mensagem de erro com nome de classe chamado (message-box). Nesta função é criado uma div e essa div é estilizada no CSS.
+ A mensagem de erro aparece na tela e tem duração de 5 segundos e some da tela.
  <br>
- if (event.key === 'Enter') { // e aqui verifica se a tecla pressionada foi "Enter".
-  <br> foi feita a lógica para manipular e apresentar a mensagem de erro caso o usuário digite
-  uma palavra com acento ou letra maiúscula.
- </p>
  <p>🔹 No arquivo CSS o estilo aplicado através do .message-box{} , onde o .message-box é uma classe do CSS,  são usados algumas propriedades do CSS que combinados criam um elemento visualmente destacado na tela, com uma borda e sombra suaves.</P> <br>
  <p> Veja abaixo o que cada propriedade faz:</p>
  <p>
@@ -150,6 +147,8 @@ https://github.com/user-attachments/assets/6dce65df-f08c-424d-ae44-8331d83dcf1a
  ✅ z-index: 9999;: Define a ordem de empilhamento do elemento. z-index especifica a camada na qual o elemento aparecerá em relação a outros elementos. Um valor alto, como 9999, garante que o elemento fique acima de outros elementos na página.<br>
  ✅ font-size: 1.5rem;: Define o tamanho da letra.<br>
  </p>
+ <br> <img src="./assets/mensagemErro1.png" alt="Logo"> <br>
+ <br> <img src="./assets/mensagemErro2.png" alt="Logo"> <br>
  <br>
 
 <h3>🔺Descubra qual é a nossa mensagem secreta!⚠️</h3>
