@@ -125,18 +125,18 @@ https://github.com/user-attachments/assets/6dce65df-f08c-424d-ae44-8331d83dcf1a
 
  <h3>🔺🛑⚠️ Caixa de Mensagem de erro na tela  </h3>
  <br>
- <p> Na primeira finalização do projeto eu usei uma função que apenas impedia o usuário de 
+ <p>🔹 Na primeira finalização do projeto eu usei uma função que apenas impedia o usuário de 
  digitar palavras com letra maiúscula e acentos e não havia essa função que exibe um alerta
  na tela caso o usuário digita-se uma palavra com acento ou letra maiúscula.</p>
 
- <p> Foi usado o evento keydown que serve para capturar quando o usuário pressiona uma tecla.
+ <p>🔹 Foi usado o evento keydown que serve para capturar quando o usuário pressiona uma tecla.
  E dentro de uma condição IF() : 
  <br>
  if (event.key === 'Enter') { // e aqui verifica se a tecla pressionada foi "Enter".
   <br> foi feita a lógica para manipular e apresentar a mensagem de erro caso o usuário digite
   uma palavra com acento ou letra maiúscula.
  </p>
- <p> No arquivo CSS o estilo aplicado através do .message-box{} , onde o .message-box é uma classe do CSS,  são usados algumas propriedades do CSS que combinados criam um elemento visualmente destacado na tela, com uma borda e sombra suaves.</P>
+ <p>🔹 No arquivo CSS o estilo aplicado através do .message-box{} , onde o .message-box é uma classe do CSS,  são usados algumas propriedades do CSS que combinados criam um elemento visualmente destacado na tela, com uma borda e sombra suaves.</P> <br>
  <p> Veja abaixo o que cada propriedade faz:</p>
  <p>
  ✅ position: fixed;: Define que o elemento será posicionado de forma fixa em relação à viewport (janela do navegador). Isso significa que ele não se moverá quando a página for rolada.<br>
