@@ -148,7 +148,7 @@ https://github.com/user-attachments/assets/6dce65df-f08c-424d-ae44-8331d83dcf1a
  ✅ font-size: 1.5rem;: Define o tamanho da letra.<br>
  </p>
  <br> <img src="./assets/mensagemErro1.png" alt="Logo"> <br>
- <br> <img src="./assets/mensagemErro2.png" alt="Logo"> <br>
+ <br> <img src="./assets/mensagemDeErro2.png" alt="Logo"> <br>
  <br>
 
 <h3>🔺Descubra qual é a nossa mensagem secreta!⚠️</h3>
