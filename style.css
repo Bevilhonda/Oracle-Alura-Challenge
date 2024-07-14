@@ -251,6 +251,11 @@ na caixa de mensagem que eu usei ao invés do alert */
   .about {
     padding: 1rem;
   }
+  .message-box{
+    height: 10rem;
+    font-size: 1.125rem;
+    margin-top: 0.01rem;
+  }
 }
 
 @media (max-width: 768px) {
