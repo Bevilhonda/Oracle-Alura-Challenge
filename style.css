@@ -290,6 +290,12 @@ na caixa de mensagem que eu usei ao invés do alert */
   .campo_resultado textarea, .campo_resultado textarea:focus {
     font-size: 1.2rem;
   }
+  .message-box{
+    width: 50%;
+    height: 1rem;
+    font-size: 1.125rem;
+    margin-top: 0.01rem;
+  }
 }
 
 @media (max-width: 480px) {
