@@ -200,7 +200,7 @@ textarea::placeholder {
 
 .message-box {
   position: fixed;
-  top: 25%;
+  top: 21%;
   left: 25%;
   transform: translate(-50%, -50%);
   background-color: #040536;
