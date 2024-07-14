@@ -252,9 +252,9 @@ na caixa de mensagem que eu usei ao invés do alert */
     padding: 1rem;
   }
   .message-box {
-    width: 90%; 
+    width: 50%; 
     height: auto; 
-    font-size: 1.125rem;
+    font-size: 1rem;
     margin-top: 0; 
   }
 }
@@ -292,9 +292,9 @@ na caixa de mensagem que eu usei ao invés do alert */
     font-size: 1.2rem;
   }
   .message-box {
-    width: 90%; 
+    width: 50%; 
     height: auto; 
-    font-size: 1.125rem;
+    font-size: 1rem;
     margin-top: 0; 
   }
 }
