@@ -291,6 +291,7 @@ na caixa de mensagem que eu usei ao invés do alert */
   .campo_resultado textarea, .campo_resultado textarea:focus {
     font-size: 1.2rem;
   }
+  
   .message-box {
     position: fixed;
     top: 50%;
